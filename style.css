@@ -108,5 +108,8 @@ footer form button {
     font-size: 18px;
     margin-top: 30px;
     margin-left: 115px;
-    
+}
+footer form button:hover {
+    cursor: pointer;
+    opacity: 0.8;
 }
