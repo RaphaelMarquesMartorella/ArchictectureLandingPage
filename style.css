@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #303030;
+    color: #FFFFFF;
+    height: 300px;
+     
+}
+nav {
+    padding-top: 140px;
+    padding-left: 110px;
+}
+
+nav h1 {
+    font-size: 50px;
+    font-weight: 200;
+}
+
+nav h4 {
+        margin-top: 15px;
+        font-size: 20px;
+        font-weight: 200;
+    }
+
+menu {
+    display: flex;
+    padding-top: 80px;
+    padding-left: 220px;
+    padding-bottom: 70px;
+    background-color: rgba(0, 0, 0, 0.073);
+    
+}
+menu h1 {
+    font-size: 40px;
+    
+}
+menu h4 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.menu-info {
+    margin-right: 220px;
+}
+section {
+    display: flex;
+    padding-top: 80px;
+    padding: 100px;
+    padding-bottom: 70px;
+}
+section #section-left-side{
+    padding-top: 170px;
+    padding-left: 200px;
+    width: 65%;
+}
+section #section-left-side h1{
+    font-size: 42px;
+    
+}
+section #section-left-side h4{
+    margin-top: 35px;
+    font-size: 20px;
+    font-weight: 200;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #303030;
+    height: 470px;
+    
+    
+}
+footer h3 {
+    color: #FFFFFF;
+    font-size: 33px;
+}
+footer form {
+    display: flex;
+    flex-direction: column;
+}
+footer form input {
+    width: 520px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-left: 40px;
+    font-size: 17px;
+}
+footer form button {
+    width: 270px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    background: #C07212;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 115px;
+    
+}
