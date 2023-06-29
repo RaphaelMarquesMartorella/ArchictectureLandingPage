@@ -11,4 +11,7 @@
 
 
 
-![ArchitecturePage](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/67b82b86-08bc-4de0-a518-1d3981bbb494)
+![Screenshot (74)](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/9b4b2b56-c383-4de6-a5d6-8d2d28de1113)
+![Screenshot (75)](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/4ad3662f-2e3b-436c-803b-65c6920d854c)
+![Screenshot (76)](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/baf145a5-53ae-425c-a5a5-c48ec939d645)
+![Screenshot (77)](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/a20a9408-d3f8-42cf-a9bb-22fa60733ec6)
