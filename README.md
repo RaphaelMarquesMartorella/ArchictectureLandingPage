@@ -8,7 +8,7 @@
 ### Link da planilha feita no Sheet Monkey: https://docs.google.com/spreadsheets/d/1tNY_6FmPd0KnygRVGc885jqG73u_Y7jgJPPRnFalWps/edit?pli=1#gid=0
 
 
-### Funcionalidades do JavaScript: Carrossel de imagens e Varificação de login.
+### Funcionalidades do JavaScript: Carrossel de imagens e varificação de login.
 
 
 ![Screenshot (74)](https://github.com/RaphaelMarquesMartorella/ArchictectureLandingPage/assets/118463534/9b4b2b56-c383-4de6-a5d6-8d2d28de1113)
